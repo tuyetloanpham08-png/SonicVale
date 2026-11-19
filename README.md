@@ -1,3 +1,14 @@
+## 📌 写在前面（Miller 的说明）
+
+这是开源项目 [音谷 SonicVale](https://github.com/xcLee001/SonicVale) 的 fork，版权和开源协议（AGPL-3.0）归原作者所有，本仓库没有改动代码。
+
+- **下载安装包**：到原作者的发布页下载最新版（Windows）：https://github.com/xcLee001/SonicVale/releases
+- **需要配语音引擎**：音谷本身不出声音，要接 IndexTTS2（B 站开源的语音模型）。可以用云端免费显卡跑，也可以本地部署，具体步骤看下面原作者的使用教程。
+- **配套教程**：我在 X（@TuyetloanP81840）的 AI 短剧后期篇里，讲了配音、音频处理和混音的完整流程。
+- **声音版权**：请用自己的声音，或明确可以商用的音色，不要克隆别人的声音。
+
+---
+
 <div align="center">
 
 # 音谷 - AI 多角色多情绪配音平台
